@@ -60,3 +60,12 @@ cout << i << " ";
 }*/
 return 0;
 }
+
+// Enter No of Node, Edges, and start node: 5 6 0
+// Enter Pair of edges:
+// 0 1
+// 0 2
+// 1 3
+// 1 4
+// 2 3
+// 3 4
